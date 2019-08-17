@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sample-client-service/sample-client-service.iml" filepath="$PROJECT_DIR$/sample-client-service/sample-client-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-config-service/sample-config-service.iml" filepath="$PROJECT_DIR$/sample-config-service/sample-config-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-discovery-service/sample-discovery-service.iml" filepath="$PROJECT_DIR$/sample-discovery-service/sample-discovery-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-spring-cloud-netflix.iml" filepath="$PROJECT_DIR$/sample-spring-cloud-netflix.iml" />
+    </modules>
+  </component>
+</project>
